@@ -1,4 +1,6 @@
 #site-alura
 
-## estudio de tatuagens 
+## isa traços 
 represente a sua individualidade, ou melhor, sua personalidade 
+
+
